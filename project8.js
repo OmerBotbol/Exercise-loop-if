@@ -20,7 +20,7 @@ while(count < 5) {
         }
         if (sum === 1){
             count++
-            myList += num2 + " "
+            myList += num2 + " ";
             break;
         }
         else{
@@ -28,7 +28,7 @@ while(count < 5) {
             sum = 0;
         }
     }
-num = num2
+num = num2;
 num ++;
 num2 ++;
 }
